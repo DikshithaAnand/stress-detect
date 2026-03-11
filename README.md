@@ -53,8 +53,8 @@ Swagger docs at: `http://localhost:8000/docs`
 
 Simply open `frontend/index.html` in your browser.
 
-> **Note:** The frontend works in **demo mode** even without the backend.  
-> A rule-based engine provides predictions when the API is unavailable.
+-  **Note:** The frontend works in **demo mode** even without the backend.  
+-  A rule-based engine provides predictions when the API is unavailable.
 
 ---
 
