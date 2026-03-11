@@ -166,4 +166,4 @@ It is NOT a clinical diagnostic tool. For serious mental health concerns, please
 
 ## 📧 Support
 
-Built as a final year AI project demonstrating practical ML in healthcare support systems.
+- Built as a final year AI project demonstrating practical ML in healthcare support systems.
